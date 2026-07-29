@@ -1,0 +1,6 @@
+{
+  "name": "AeroWeather",
+  "description": "Hyper-local weather forecasts, real-time severe weather alerts, interactive precipitation radar, and AI-powered microclimate briefings.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
